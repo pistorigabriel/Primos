@@ -1,2 +1,6 @@
-# primos
-Identifica todos os primos menores que o número fornecido, além disso contém outras funções que também podem ser usadas para determinar se um número é primo e o próximo primo relativo ao número fornecido.
+# Primos
+Função "primo": DETERMINA SE O NÚMERO FORNECIDO É OU NÃO PRIMO.
+
+Função "proxprimo": MOSTRA QUAL É O PRÓXIMO NÚMERO PRIMO EM RELAÇÃO AO NÚMERO FORNECIDO (COM APOIO DA FUNÇÃO "primo").
+
+Função final "todosprimos": IMPRIME TODOS OS NÚMERO PRIMOS MENORES QUE O NÚMERO FORNECIDO (COM APOIO DA FUNÇÃO "proxprimo").
